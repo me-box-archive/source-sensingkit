@@ -5,12 +5,18 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/SensingKitLib" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/misc/Dropbox/projects/uni/phd/databox/databox-source-mobile" />
+            <option value="$USER_HOME$/misc/Dropbox/projects/uni/phd/databox/databox-source-mobile/SensingKitLib" />
+            <option value="$USER_HOME$/misc/Dropbox/projects/uni/phd/databox/databox-source-mobile/app" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$USER_HOME$/misc/Dropbox/projects/uni/phd/databox/databox-source-mobile" />
+            <option value="$USER_HOME$/misc/Dropbox/projects/uni/phd/databox/databox-source-mobile/SensingKitLib" />
+            <option value="$USER_HOME$/misc/Dropbox/projects/uni/phd/databox/databox-source-mobile/app" />
           </set>
         </option>
       </GradleProjectSettings>
