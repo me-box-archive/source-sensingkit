@@ -4,7 +4,7 @@ An Android app that enables your phone to stream sensor data to a Databox.
 
 NB: All available sensors will be enabled and can stream to your Databox on demand at maximum fidelity. This app is still a WIP, and a newer version will have a UI that gives you more control.
 
-This repo is an Android Studio project, and should work out of the box. A test build is available [here](https://dl.dropboxusercontent.com/u/704818/Temp/databox-source-mobile-debug.apk).
+This repo is an Android Studio project, and should work out of the box. A test build is available [here](https://www.dropbox.com/s/oue9hcf3wp85fmi/databox-source-mobile-debug.apk).
 
 ## API Endpoints
 
